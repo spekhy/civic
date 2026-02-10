@@ -8,6 +8,7 @@
     "deploy": "gh-pages -d out",
     "dev": "next dev",
     "build": "next build",
+    "export": "rm -rf docs && next build && mv out docs && touch docs/.nojekyll",
     "start": "next start",
     "lint": "eslint"
   },
