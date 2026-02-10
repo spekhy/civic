@@ -140,7 +140,7 @@ export default function Home() {
 
       <footer className="border-t border-neutral-900 bg-neutral-950 py-12 text-center text-neutral-600">
         <p className="text-sm">
-          made withouht ❤️ by <a href="symonround.com">symonround.com</a>
+          made without ❤️ by <a href="symonround.com">symonround.com</a>
         </p>
       </footer>
     </div>
