@@ -1,7 +1,7 @@
 {
   "name": "civic",
   "version": "0.1.0",
-  "homepage": "https://civic.github.io/react-gh-pages",
+  "homepage": "https://spekhy.github.io/civic/",
   "private": true,
   "scripts": {
     "predeploy": "npm run build",
