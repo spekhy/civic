@@ -52,7 +52,7 @@ export default function Home() {
             </div>
             <div className="group rounded-2xl bg-neutral-900/50 p-6 transition hover:bg-neutral-900">
               <span className="mb-2 block text-xs font-medium text-neutral-500 uppercase">More Engine Info</span>
-              <h4 className="text-3xl font-bold text-red-500">1.8L</h4>
+              <h4 className="text-3xl font-bold text-red-500">7.5l/100km</h4>
               <p className="mt-2 text-neutral-400">Pure gasoline. Massive torque and not so incredible fuel economy. That 2nd gear is fun.</p>
             </div>
           </div>
@@ -140,7 +140,7 @@ export default function Home() {
 
       <footer className="border-t border-neutral-900 bg-neutral-950 py-12 text-center text-neutral-600">
         <p className="text-sm">
-          made without ❤️ by <a href="symonround.com">symonround.com </a>
+          made without ❤️ by <a href="https://symonround.com">symonround.com </a>
         </p>
       </footer>
     </div>
